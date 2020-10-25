@@ -1,0 +1,3 @@
+Tên dang nhap : sa
+Pass : 123456
+Port : 1433
